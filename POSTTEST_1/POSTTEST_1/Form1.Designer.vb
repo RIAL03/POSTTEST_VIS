@@ -80,7 +80,6 @@ Partial Class Form1
         txtIPK.Name = "txtIPK"
         txtIPK.Size = New Size(205, 32)
         txtIPK.TabIndex = 5
-        txtIPK.Text = "fdfdfdfdf"
         ' 
         ' btnReset
         ' 
@@ -107,9 +106,8 @@ Partial Class Form1
         lblPredikat.AutoSize = True
         lblPredikat.Location = New Point(234, 356)
         lblPredikat.Name = "lblPredikat"
-        lblPredikat.Size = New Size(68, 20)
+        lblPredikat.Size = New Size(0, 20)
         lblPredikat.TabIndex = 8
-        lblPredikat.Text = "brp hayo"
         ' 
         ' Form1
         ' 

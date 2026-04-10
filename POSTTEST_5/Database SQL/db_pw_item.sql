@@ -1,0 +1,10 @@
+CREATE DATABASE IF NOT EXISTS db_Pw_item;
+
+USE db_Pw_item;
+
+CREATE TABLE items (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(100) NOT NULL,
+    category VARCHAR(50) NOT NULL,
+    quantity INT NOT NULL
+);

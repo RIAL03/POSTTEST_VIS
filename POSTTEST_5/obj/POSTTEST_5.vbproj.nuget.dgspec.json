@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rizal\\source\\repos\\POSTTEST_5\\POSTTEST_5.vbproj": {}
+    "C:\\Users\\rizal\\OneDrive\\Dokumen\\Praktikum_Semester_4\\Pemrograman Visual\\POSTTEST_VIS\\POSTTEST_5\\POSTTEST_5.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\rizal\\source\\repos\\POSTTEST_5\\POSTTEST_5.vbproj": {
+    "C:\\Users\\rizal\\OneDrive\\Dokumen\\Praktikum_Semester_4\\Pemrograman Visual\\POSTTEST_VIS\\POSTTEST_5\\POSTTEST_5.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rizal\\source\\repos\\POSTTEST_5\\POSTTEST_5.vbproj",
+        "projectUniqueName": "C:\\Users\\rizal\\OneDrive\\Dokumen\\Praktikum_Semester_4\\Pemrograman Visual\\POSTTEST_VIS\\POSTTEST_5\\POSTTEST_5.vbproj",
         "projectName": "POSTTEST_5",
-        "projectPath": "C:\\Users\\rizal\\source\\repos\\POSTTEST_5\\POSTTEST_5.vbproj",
+        "projectPath": "C:\\Users\\rizal\\OneDrive\\Dokumen\\Praktikum_Semester_4\\Pemrograman Visual\\POSTTEST_VIS\\POSTTEST_5\\POSTTEST_5.vbproj",
         "packagesPath": "C:\\Users\\rizal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rizal\\source\\repos\\POSTTEST_5\\obj\\",
+        "outputPath": "C:\\Users\\rizal\\OneDrive\\Dokumen\\Praktikum_Semester_4\\Pemrograman Visual\\POSTTEST_VIS\\POSTTEST_5\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
